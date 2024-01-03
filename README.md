@@ -47,7 +47,7 @@ Tools / Hardware yang digunakan:
       ```
          
          
-# [**Contoh Program**](https://github.com/nurmanhariyanto/absensi-iot)
+# ⮕ [**Contoh Program**](https://github.com/nurmanhariyanto/praktikum-database-and-iot)   
 
          
           
