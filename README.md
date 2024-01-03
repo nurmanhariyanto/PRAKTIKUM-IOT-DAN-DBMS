@@ -31,7 +31,15 @@ Tools / Hardware yang digunakan:
       ```
 
 2. Instalasi rabbitmq server dapat mengikuti tutorial berikut : https://www.linkedin.com/pulse/how-install-rabbitmq-windows-gitonga-bretton/
-      
+   aktifkan plugin mqtt pada rabbitmq dengan cara masuk ke directory rabbitmq C:\Program Files\RabbitMQ Server\rabbitmq_server-xxxxxx\sbin
+   plugin management
+    ```
+      .\rabbitmq-plugins.bat enable rabbitmq_management
+      ```
+   plugin mqtt
+     ```
+      rabbitmq-plugins enable rabbitmq_mqtt
+      ```
          
          
 # [**Contoh Program**](https://github.com/nurmanhariyanto/absensi-iot)
