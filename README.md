@@ -33,10 +33,13 @@ Tools / Hardware yang digunakan:
 2. Instalasi rabbitmq server dapat mengikuti tutorial berikut : https://www.linkedin.com/pulse/how-install-rabbitmq-windows-gitonga-bretton/
    aktifkan plugin mqtt pada rabbitmq dengan cara masuk ke directory rabbitmq C:\Program Files\RabbitMQ Server\rabbitmq_server-xxxxxx\sbin
    plugin management
+   ![alt text]([http://url/to/img.png](https://media.licdn.com/dms/image/D4D12AQH99RpRDtvowQ/article-inline_image-shrink_1500_2232/0/1695803035859?e=1709769600&v=beta&t=upbGDpqBtXiwxRHrKJ0P_OiETPlwFirGK_bC2nHZxR0))
+   
     ```
       .\rabbitmq-plugins.bat enable rabbitmq_management
       ```
    plugin mqtt
+   
      ```
       rabbitmq-plugins enable rabbitmq_mqtt
       ```
