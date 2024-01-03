@@ -29,7 +29,8 @@ Tools / Hardware yang digunakan:
       dotnet restore
       dotnet run
       ```
-      
+
+2. Instalasi rabbitmq server dapat mengikuti tutorial berikut : https://www.linkedin.com/pulse/how-install-rabbitmq-windows-gitonga-bretton/
       
          
          
